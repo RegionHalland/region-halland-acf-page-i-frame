@@ -1,0 +1,13 @@
+{
+    "name": "regionhalland/region-halland-acf-page-i-frame",
+    "description": "Specialfunktion för att skapa en länk som visas i en i-frame",
+    "type": "wordpress-plugin",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Roland Hydén",
+            "email": "Roland.Hyden@Regionhalland.se"
+        }
+    ],
+    "require": {}
+}
