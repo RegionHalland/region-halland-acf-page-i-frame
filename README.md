@@ -10,6 +10,15 @@ Nedan följer instruktioner hur du kan använda pluginet "region-halland-acf-pag
 Denna plugin skapar en länk som visas i en i-frame
 
 
+## Licensmodell
+
+Denna plugin använder licensmodell GPL-3.0. Du kan läsa mer om denna licensmodell på:
+```sh
+A) Gnu.org (https://www.gnu.org/licenses/gpl-3.0.html)
+B) Wikipedia (https://sv.wikipedia.org/wiki/GNU_General_Public_License)
+```
+
+
 ## Installation och aktivering
 
 ```sh
@@ -60,6 +69,9 @@ OBS! Justera så att du hämtar aktuell version.
 
 
 ## Versionhistorik
+
+### 1.2.0
+- Lagt till information om licensmodell
 
 ### 1.1.0
 - Lagt till view-filen "template-i-frame.blade.php"
