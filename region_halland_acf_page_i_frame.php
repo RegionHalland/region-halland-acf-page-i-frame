@@ -6,7 +6,7 @@
 	/*
 	Plugin Name: Region Halland ACF Page I-Frame
 	Description: Specialfunktion för att skapa en länk som visas i en i-frame 
-	Version: 1.2.0
+	Version: 1.3.0
 	Author: Roland Hydén
 	License: GPL-3.0
 	Text Domain: regionhalland
